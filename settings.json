@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bonytail.aternos.host:37112",
+    "ip": "orca.aternos.host:37112",
     "port": 37112,
     "version": "",
     "try-creative": false
